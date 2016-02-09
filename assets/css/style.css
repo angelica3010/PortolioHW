@@ -1,7 +1,28 @@
+h1 {
+	font-size: 100px;
+} 
 #aboutme{
     width: 960px;
    background-color: bisque;
    height: 400px;
+    padding: 25px;
+    border: 25px solid navy;
    display: inline-block;
    margin: -1px;
+
+
+/*h1 { border-bottom: 1px solid black }
+
+
+}*/
+
+}
+#footer{
+   background-color: #666666 ;
+   padding-top: 88px;
+   border-width: 3px 0px 0px 0px;
+   border-top-color: #4aaaa5 ;
+   height: 150px;
+   border-style: solid;
+
 }
